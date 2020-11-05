@@ -1,0 +1,16 @@
+body{
+	margin: 0 10%;	
+}
+
+#title {
+	text-align: center;
+}
+
+.subTitle {
+	text-align: center;
+}
+
+.projDesc{
+	text-indent: 2em;
+	text-align: justify;
+}
