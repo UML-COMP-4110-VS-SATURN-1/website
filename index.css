@@ -71,3 +71,14 @@ h1 {
 	text-align: center; 
 	position: absolute;
 }
+
+.links {
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#column {
+	width: 33%;
+	flex-grow: 1;
+}
